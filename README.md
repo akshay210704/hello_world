@@ -9,7 +9,7 @@ I am a Computer Science and System Engineering student at C.V. Raman Global Univ
 - 🌱 Currently learning advanced machine learning techniques.
 - 👯 Looking to collaborate on ML and automation projects.
 - 💬 Ask me about Python, Java, C, C++, and Oracle 11g.
-- 📫 Reach me at: [your email or social media handle]
+- 📫 Reach me at: akkikumar.kr.12@gmail.com
 
 ## Skills
 
@@ -28,8 +28,3 @@ I am a Computer Science and System Engineering student at C.V. Raman Global Univ
 ## GitHub Stats
 
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay210704&show_icons=true&theme=radical)
-
-## Connect with Me
-
-- [LinkedIn](your LinkedIn profile link)
-- [Twitter](your Twitter profile link)
