@@ -19,7 +19,7 @@ I am a Computer Science and System Engineering student at C.V. Raman Global Univ
 ## Projects
 
 ### Breast Cancer Prediction System
-- **Description:** Predicts breast cancer using linear regression.
+- **Description:** Predicts breast cancer using logistic regression.
 - **Tech Used:** Python, Scikit-Learn
 
 ### Traffic Light Management System
